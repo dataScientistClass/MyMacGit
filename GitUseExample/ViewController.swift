@@ -20,6 +20,8 @@ class ViewController: UIViewController {
         
         // do something
         println("this is a git tutorial")
+        println("Some other thing")
+        
         
         
     }
